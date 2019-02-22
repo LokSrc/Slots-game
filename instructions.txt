@@ -1,0 +1,29 @@
+Slots project
+TIE-02207
+Marius Niemenmaa, marius.niemenmaa@student.tut.fi
+
+At the top left you can see your current balance.
+Below current balance you will see eachs rounds end result.
+Below rounds end result will appear your biggest win after you win something.
+
+In the middle you can see three reels which can be spinned using button "Spin" located in rightside bottom. Reels can be locked and unlocked using "Toggle Lock" button located under a reel.
+
+You can insert more coins using "Insert coin" button located on top of "Spin" button.
+
+Game ends when you run out of money and/or have played 25 rounds.
+Winning line is horizontal line located in middle. There is graphical line indicating win line.
+
+Extra features:
+        - Best result of games played so far is recorded and displayed (10 p.)
+        - There is spinning animation which length is randomized for each reel (30 p.)
+
+WIN BOARD:
+
+3 x Strawberry = 2 x Bet
+3 x Orange     = 3 x Bet
+3 x Pear       = 4 x Bet
+3 x Apple      = 4 x Bet
+3 x Bananas    = 5 x Bet
+3 x Tomato     = 6 x Bet
+3 x Grapes     = 10 x Bet
+3 x Eggplant   = 50 x Bet
