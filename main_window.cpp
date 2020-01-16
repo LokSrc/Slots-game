@@ -52,7 +52,7 @@ Fruits loadFruits() {
 
     // Define where the images can be found and what kind of images they are.
     // * Here we assume that the build directory is next to Slots directory.
-    const std::string directory("../slots/Resources/");
+    const std::string directory("../Slots-game/Resources/");
     const std::string extension(".png");
 
     // Load the images into QPixmaps and bundle them with their frequencies.
